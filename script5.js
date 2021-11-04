@@ -1,5 +1,5 @@
 let myArray = [1,2,3,4,5];
-
+// comment
 // define getArrayAndMultiplyByNumber(array, number)
 // for each element of the array do element * number
 // store the result of the above back to the same place in the array
